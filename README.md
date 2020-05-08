@@ -1,4 +1,4 @@
-# SPOJ---Solution
+# SPOJ---Solution.
 
 SPOJ online judge solutions
 username: Viv786ek
